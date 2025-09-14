@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **RTL-related projects and advanced digital design challenges**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
+- 👨‍💻 All of my projects are available at [https://github.com/lxnR5?tab=repositories]
 
 - 💬 Ask me about **React, digital circuit design**
 
